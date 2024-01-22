@@ -1,6 +1,6 @@
-## Hi, I’m Eduardo Silva Borges, Dev Mobile
+## Oi, sou Eduardo Silva Borges, desenvolvedor Mobile
 
-## SKILLS:
+## Contatos:
 
 <div>
 <a href="https://instagram.com/eduardosb.dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
