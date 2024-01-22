@@ -1,5 +1,4 @@
-## Hi, I’m Eduardo Silva Borges
-## Dev Mobile
+## Hi, I’m Eduardo Silva Borges, Dev Mobile
 
 ## SKILLS:
 
