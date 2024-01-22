@@ -1,4 +1,4 @@
-### <h1 align="center"> Meu nome é Eduardo Silva Borges, sou desenvolvedor Mobile </h1>
+### <h1 align="center"> Sou o Eduardo Silva Borges, desenvolvedor Mobile </h1>
 <br>
 
 ### <h1 align="center"> Habilidades e conhecimentos</h1>
